@@ -1,0 +1,4 @@
+after starting powershell run:
+$env:Path += ";C:\Ruby22\bin"
+
+irb is the command to get an interactive ruby prompt
